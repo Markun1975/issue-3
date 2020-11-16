@@ -1,0 +1,50 @@
+PODS:
+  - Differentiator (4.0.1)
+  - HTMLReader (2.1.5)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.9.4):
+    - SDWebImage/Core (= 5.9.4)
+  - SDWebImage/Core (5.9.4)
+  - SegementSlide (3.0.1)
+
+DEPENDENCIES:
+  - HTMLReader
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - SDWebImage (~> 5.0)
+  - SegementSlide
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - HTMLReader
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SegementSlide
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  HTMLReader: 8056b3418baad09718902a1b39361c63b14a894f
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: b69257f4ab14e9b6a2ef53e910fdf914d8f757c1
+  SegementSlide: 83b56ffb66b9c0edc4e4f2a74229309c62915db3
+
+PODFILE CHECKSUM: 6a6b4e4e79848f3df19c421d4b7687e00949dd56
+
+COCOAPODS: 1.10.0
